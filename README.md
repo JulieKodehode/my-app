@@ -4,8 +4,8 @@
 2. Open that folder in VSC
 3. Open terminal
 4. Write "npx create-react-app my-app" in terminal
-   - npx is Node Package eXecute (Doc)[https://www.npmjs.com/package/npx]
-   - create-react-app is the name of the package we want to use (Doc)[https://create-react-app.dev/]
+   - npx is Node Package eXecute [Doc](https://www.npmjs.com/package/npx)
+   - create-react-app is the name of the package we want to use [Doc](https://create-react-app.dev/)
    - my-app is the name of the project (Can be my-app, react-app, my-project, myApp, reactApp, myProject etc)
 5. Wait for files to download, when the message "Happy Hacking" appears you are good to go!
 6. Open your new project folder. You can use CD to navigate, but this can lead to complications and errors... So open your new project folder in VSC.
@@ -28,7 +28,7 @@
 
 2. Create a file called pageTitle.jsx and write the function you want your component to be.
 
-- your file can be camelCase but you component needs to be PascalCase. It needs to be PascalCase because when we use an component as an element we need to difference between a regular HTML element and a component element. (Doc)[https://medium.com/@smail.oubaalla/how-to-name-your-react-component-conventions-b8daf3abc574]
+- your file can be camelCase but you component needs to be PascalCase. It needs to be PascalCase because when we use an component as an element we need to difference between a regular HTML element and a component element. [Doc](https://medium.com/@smail.oubaalla/how-to-name-your-react-component-conventions-b8daf3abc574)
 
 3. Export your function with the export default keywords either directly in your function or under your function
 
@@ -72,7 +72,7 @@ import PageTitle from "./components/pageTitle";
 import profilePicture from "./assets/cartoonprofilepic.png";
 ```
 
-3. Use the name you gave your asset (in this case it is profilePicture)in your asset in a <code>img src={profilePicture}</code>
+3. Use the name you gave your asset (in this case it is profilePicture)in your asset in a img src={profilePicture}
 
 # Adding styling
 
