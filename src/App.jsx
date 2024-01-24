@@ -13,7 +13,7 @@ function App() {
 				{/* Placing the component */}
 				<PageTitle />
 
-				{/* Istedenfor å linke til hvor i mappen vi finner bilder importerer vi bildet inn i filen og bruker navnet vi ga det */}
+				{/* Instead of adding the path to where it is located in the folders we import the image and use the imported name */}
 				{/*
 				OUTDATED: 
 				<img src="./assets/cartoonprofilepic.jpg" alt="" /> 
